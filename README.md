@@ -9,3 +9,11 @@ MIT
 ## Deployment
 https://bcummings32.github.io/benemployee-directory/
 
+## Usage 
+Run npm i in the terminal
+
+## Contributing
+Ben Cummings
+
+Questions: bncmmngs@aol.com
+
